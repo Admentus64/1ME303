@@ -1,0 +1,117 @@
+Game Sound:	soundBackToLife
+Name:		Correct tone, beep
+Author:		ZapSplat
+Link:		https://www.zapsplat.com/sound-effect-category/alerts-and-prompts/
+License:	Standard License (Attribution)
+
+Game Sound:	soundBirdAirplaneDead
+Name:		18.wav
+Author:		adcbicycle
+Link:		https://freesound.org/people/adcbicycle/sounds/13827/
+Date:		12 January, 2006
+License:	Creative Commons 0 License
+
+Game Sound:	soundBirdAirplaneShoot
+Name:		Layered Gunshot 4.wav
+Author:		Xenonn
+Link:		https://freesound.org/people/Xenonn/sounds/128300/
+Date:		16 September, 2011
+License:	Creative Commons 0 License
+
+Game Sound:	soundBirdAngryDead
+Name:		dead_bird.wav
+Author:		markb258
+Link:		https://freesound.org/people/markb258/sounds/245807/
+Date:		29 August, 2014
+License:	Attribution License
+
+Game Sound:	soundBirdCloudShoot
+Name:		Shrieking Laughter
+Author:		plasterBrain
+Link:		https://freesound.org/people/plasterbrain/sounds/243022/
+Date:		21 July, 2014
+License:	Creative Commons 0 License
+
+Game Sound:	soundBirdRainCloudDead
+Name:		Big Splash.wav
+Author:		Bird_Man
+Link:		https://freesound.org/people/Bird_man/sounds/316744/
+Date:		18 July, 2015
+License:	Creative Commons 0 License
+
+Game Sound:	soundBirdThunderCloudDead
+Name:		lightning-thunder-building noise.wav
+Author:		TheStarKing
+Link:		https://freesound.org/people/TheStarKing/sounds/267407/
+Date:		18 March, 2015
+License:	Attribution License
+
+Game Sound:	soundHitBird
+Name:		impact-03.wav
+Author:		smuz
+Link:		https://freesound.org/people/smuz/sounds/260001/
+Date:		2 January, 2015
+License:	Creative Commons 0 License
+
+Game Sound:	soundCatDead
+Name:		cat meow
+Author:		tuberatanka
+Link:		https://freesound.org/people/tuberatanka/sounds/110011/
+Date:		6 December, 2010
+License:	Creative Commons 0 License
+
+Game Sound:	soundCatGetHit
+Name:		Cat, Screaming, A.wav
+Author:		InspectorJ
+Link:		https://freesound.org/people/InspectorJ/sounds/415209/
+Date:		12 January, 2018
+License:	Attribution License
+
+Game Sound:	soundDogDead
+Name:		Chihuahua Puppy Whine
+Author:		AustinXYZ
+Link:		https://freesound.org/people/AustinXYZ/sounds/350593/
+Date:		21 July, 2016
+License:	Creative Commons 0 License
+
+Game Sound:	soundDogGetHit
+Name:		Single Dog Bark
+Author:		kwahmah_02
+Link:		https://freesound.org/people/kwahmah_02/sounds/277058/
+Date:		21 June, 2015
+License:	Creative Commons 0 License
+
+Game Sound:	soundJump
+Name:		Jumping SFX
+Author:		Lefty_Studios
+Link:		https://freesound.org/people/Lefty_Studios/sounds/369515/
+Date:		30 November, 2016
+License:	Creative Commons 0 License
+
+Game Sound:	soundPowerup
+Name:		Powerup
+Author:		RandomationPictures
+Link:		https://freesound.org/people/RandomationPictures/sounds/138485/
+Date:		21 December, 2011
+License:	Creative Commons 0 License
+
+Game Sound:	soundRestore
+Name:		01972 peach biting.wav
+Author:		Robinhood76
+Link:		https://freesound.org/people/Robinhood76/sounds/102909/
+Date:		12 August, 2010
+License:	Attribution Noncommercial License
+
+Game Sound:	soundSelectOption
+Name:		UI Cute Select Major 6th
+Author:		plasterbrain
+Link:		https://freesound.org/people/plasterbrain/sounds/396193/
+Date:		25 June, 2017
+License:	Creative Commons 0 License
+
+Game Sound:	soundShootArrow
+Name:		Bow.wav
+Author:		Hanbaal
+Link:		https://freesound.org/people/Hanbaal/sounds/178872/
+Date:		24 February, 2014
+License:	Creative Commons 0 License

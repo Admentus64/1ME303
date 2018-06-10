@@ -1,0 +1,11 @@
+Font:		londrinaSolidRegular.otf
+Name:		Londrina
+Author:		Marcelo Magalhães Pereira
+Link:		https://www.dafont.com/londrina.font
+License:	100% Free
+
+Font:		smileComixRegular.ttf
+Name:		Smile Comix
+Author:		Jethro Martino Paras
+Link:		https://www.dafont.com/smilecomix.font
+License:	100% Free

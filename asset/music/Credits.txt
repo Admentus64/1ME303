@@ -1,0 +1,23 @@
+Game Music:	musicGame
+Author:		Ask Again
+Track:		Don't Feel (So Low)
+Album:		Night Ward - Abstract
+Genre:		Jazz, Chill-out
+Link:		http://freemusicarchive.org/
+License:	Public Domain + Allows for comercial use + Allows for use in a remix or video
+
+Game Music:	musicGameOver
+Author:		Ask Again
+Track:		Howling Down
+Album:		On the Ark
+Genre:		Electronic, Experimental
+Link:		http://freemusicarchive.org/
+License:	Public Domain + Allows for comercial use + Allows for use in a remix or video
+
+Game Music:	musicMenu 
+Author:		TRG Banks
+Track:		Night Sun
+Album:		Return to Dreamland
+Genre:		Soundtrack, Progressive Ambient,Instrumental
+Link:		https://freemusicarchive.org/
+License:	Public Domain + Allows for commercial use + Allows for use in a remix or video
