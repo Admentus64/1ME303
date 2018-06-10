@@ -1,2 +1,2 @@
 # 1ME303
-1ME303: Project Course 2 in Media Technology
+Course: Project Course 2 in Media Technology. Programmed with ActionScript 3 (AS3) and the code library StickOS (for AS3) provided by the Linnaeus University. Runs on the arcade machine Evertron found in the media technology room D1169. Currently Work in Progress and recently entered the Alpha state. Coding is done through Adobe Animation CC 2017. Graphics are created by Sara Alkell. All coding is done by myself (DevRobDev).
